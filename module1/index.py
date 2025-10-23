@@ -25,5 +25,5 @@ shoping.remove(1)
 shoping.append('aaaaa')
 shoping.insert(3,'limon')
 
-print(shoping)
+print(shoping[2])
 
