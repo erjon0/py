@@ -1,21 +1,22 @@
-#
-# print('hello')
-#
-# x=2
-# f='tren'
-#
-# print(x)
-#
-# print(type(x))
-# print(type(f))
-#
-# print('hello',f)
-#
-# k=3
-#
-# result=k-x
-#
-# print(result)
+
+print('hello')
+
+x=2
+f='tren'
+
+
+print(x)
+
+print(type(x))
+print(type(f))
+
+print('hello',f)
+
+k=3
+
+result=k-x
+
+print(result)
 
 shoping=[1,1.2,3]
 
