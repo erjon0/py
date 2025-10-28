@@ -27,4 +27,5 @@ shoping.append('aaaaa')
 shoping.insert(3,'limon')
 
 print(shoping[2])
-ddd
+
+d
