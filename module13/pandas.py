@@ -19,7 +19,7 @@ import pandas as pd
 
 data={
     'name':['alice','bob','charlie']
-    'age':[23,30,22]
+    'age':[23,30,22]:
     'city':['new york','berlin','vien']
 }
 
