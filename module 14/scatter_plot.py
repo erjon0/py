@@ -14,3 +14,8 @@ plt.ylabel('Average IQ')
 
 plt.grid(True, linestyle='--', alpha=0.7)
 plt.show()
+                                                                                                                                                                                                                                                                                                                                                                                                                                          .
+                                                                                                                                                                                                                                                                                                                                                                                                                                          .
+
+if __name__ == '__main__':
+    .....
