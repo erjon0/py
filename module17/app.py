@@ -1,5 +1,3 @@
-from optparse import Option
-
 import streamlit as st
 
 col1,col2,col3,col4,col5=st.columns(5, gap="small",vertical_alignment="center")
